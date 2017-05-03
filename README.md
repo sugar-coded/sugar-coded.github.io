@@ -1,15 +1,6 @@
-## Welcome to GitHub Pages
+## Nothing Yet
 
-You can use the [editor on GitHub](https://github.com/sugar-coded/sugar-coded.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Just an empty page that will eventually be filled with.. something interesting.
 
 # Header 1
 ## Header 2
