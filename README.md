@@ -25,6 +25,7 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Editor](https://github.com/sugar-coded/sugar-coded.github.io/edit/master/README.md).
 
 ### Jekyll Themes
 
